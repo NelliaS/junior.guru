@@ -45,9 +45,6 @@ coverage.xml
 *.mo
 *.pot
 
-# Scrapy stuff
-.scrapy
-
 # Sphinx documentation
 docs/_build/
 
@@ -71,6 +68,10 @@ google_service_account.json
 
 # Build
 /public/
+
+# Cache
+.jobs
+.scrapy
 
 # Synced data
 /juniorguru/data/*.db
