@@ -70,13 +70,13 @@ google_service_account.json
 /public/
 
 # Cache
-.jobs
 .scrapy
 
 # Synced data
 /juniorguru/data/*.db
 /juniorguru/data/*.db-*
 /juniorguru/data/responses/
+/juniorguru/data/jobs/
 /juniorguru/images/avatars/*.png
 /juniorguru/images/logos-jobs/*.png
 /juniorguru/images/posters-events/*.png
